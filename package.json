@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "flat": "*",
-    "lodash": ">=4.17.9",
+    "lodash": ">=4.17.11",
     "moment": "^2.22.1",
     "mongoose": "^5.2.13"
   },
